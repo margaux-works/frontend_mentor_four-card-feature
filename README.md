@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-EW7Ck133im)
-- Live Site URL: [Add live site URL here](https://margaux-works.github.io/frontend_mentor_four-card-feature/)
+- [Solution on FrontEnd Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-EW7Ck133im)
+- [Live site](https://margaux-works.github.io/frontend_mentor_four-card-feature/)
 
 ### Built with
 
@@ -45,7 +45,7 @@ Users should be able to:
 
 This challenge was an excellent opportunity to deepen my understanding of CSS Grid. I learned how to set up a grid layout to create a responsive card feature section, which involved:
 
-- Using CSS Grid:
+- Using CSS Grid
 - Positioning Elements using grid-column and grid-row properties to control the placement of cards.
 - Absolute Positioning: I learned how to position icons in the bottom right corner of each card using position: absolute
 
