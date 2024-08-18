@@ -182,4 +182,9 @@ h3 {
     grid-area: r;
     align-self: center;
   }
+
+  h1,
+  h2 {
+    font-size: 2.25rem;
+  }
 }
